@@ -1,4 +1,4 @@
-# Hi, I'm jshmlnd 👋
+# Hi, I'm Joshua Malonda 👋
 
 I'm a passionate developer who loves building innovative solutions across web, mobile, and data science. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
