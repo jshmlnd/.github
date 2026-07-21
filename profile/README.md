@@ -27,9 +27,8 @@ I'm a passionate developer who loves building innovative solutions across web, m
 
 #### 📊 GitHub Stats
 
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jshmlnd&rank_icon=github&custom_title=Joshua's%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=jshmlnd&rank_icon=github&custom_title=Joshua's%20GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=radical)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jshmlnd&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=jshmlnd&layout=compact&langs_count=6&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jshmlnd&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=jshmlnd&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jshmlnd&layout=compact&langs_count=20&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=jshmlnd&layout=compact&langs_count=13&theme=dracula)
 
 ---
 
