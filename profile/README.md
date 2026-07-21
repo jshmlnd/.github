@@ -1,4 +1,4 @@
-# Hi, I'm Joshua Malonda 👋
+# Hi, I'm Joshua 👋
 
 I'm a passionate developer who loves building innovative solutions across web, mobile, and data science. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
