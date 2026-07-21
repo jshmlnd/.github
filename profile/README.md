@@ -7,7 +7,7 @@ I'm a passionate developer who loves building innovative solutions across web, m
 - 💻 I build mobile apps and web experiences
 - 📫 How to reach me: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/jshmlnd)
 
-#### Tech Stack
+#### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -39,4 +39,4 @@ I'm a passionate developer who loves building innovative solutions across web, m
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jkmalonda/)
 ---
 
-⚡ *"Building the future, one line of code at a time."*
+### ⚡ *"Building the future, one line of code at a time."*
