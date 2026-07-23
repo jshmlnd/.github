@@ -7,6 +7,10 @@ I'm a passionate developer who loves building innovative solutions across web, m
 - 💻 I build mobile apps and web experiences
 - 📫 How to reach me: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/jshmlnd)
 
+#### 👨🏻‍💻 Recent Projects
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat&labelColor=181717)](https://github.com/jshmlnd/ust-legazpi-mhss) <sup> - University Mental Health Support Web Application</sup>
+
 #### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
