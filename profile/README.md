@@ -9,7 +9,7 @@ I'm a passionate developer who loves building innovative solutions across web, m
 
 #### 👨🏻‍💻 Recent Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat&labelColor=181717)](https://github.com/jshmlnd/ust-legazpi-mhss) <sup> - University Mental Health Support Web Application</sup>
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat&labelColor=181717)](https://github.com/jshmlnd/ust-legazpi-mhss) <sup> - University Counseling Web Application</sup>
 
 #### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
